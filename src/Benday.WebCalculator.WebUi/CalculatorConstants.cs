@@ -10,7 +10,7 @@ namespace Benday.WebCalculator.WebUi
         public const string Message_Success = "Yay! Math is so much fun! Wheee!";
         public const string Message_CantDivideByZero = "Whoa there hold up! You can't divide by zero, Champ.";
 
-        public const string OperatorAdd = "Add";
+        public const string OperatorAdd = "Addition";
         public const string OperatorSubtract = "Subtract";
         public const string OperatorMultiply = "Multiply";
         public const string OperatorDivide = "Divide";
